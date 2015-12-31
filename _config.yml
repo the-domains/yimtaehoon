@@ -1,0 +1,28 @@
+name: Yimtaehoon
+favicon: null
+layout_spectrum: 0.41052529960870743
+typography_spectrum: 0.527447467437014
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9397545037791133
+  lightness: 0.07165636401623487
+  saturation: 0.618845799472183
+  rhythmicContrast: 0.00014706887304782867
+purpose: []
