@@ -1,6 +1,6 @@
 name: Yimtaehoon
 favicon: null
-layout_spectrum: 0.41052529960870743
+layout_spectrum: 0.50954
 typography_spectrum: 0.527447467437014
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.9397545037791133
-  lightness: 0.07165636401623487
+  brandStrength: 0.625
+  lightness: 0.1875
   saturation: 0.618845799472183
-  rhythmicContrast: 0.00014706887304782867
+  rhythmicContrast: 0.25
 purpose: []
